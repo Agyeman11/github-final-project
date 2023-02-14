@@ -4,7 +4,7 @@
 
    # Do not use this in production. Sample purpose only.
 
-   # Author: Nana Agyeman
+   # Author: Upkar Lidder (IBM)
    # Additional Authors:
    # <Agyeman11>
 
